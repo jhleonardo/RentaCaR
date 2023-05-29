@@ -1,0 +1,9 @@
+com\example\demo\Servicio\GamaServicio.class
+com\example\demo\Repositorio\GamaRepositorio.class
+com\example\demo\Modelo\Client.class
+com\example\demo\Modelo\Gama.class
+com\example\demo\Reto3Application.class
+com\example\demo\Modelo\Car.class
+com\example\demo\Controlador\GamaControlador.class
+.netbeans_automatic_build
+com\example\demo\Interface\GamaInterface.class
